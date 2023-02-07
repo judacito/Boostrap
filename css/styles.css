@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+margin: 0;
+border: 0;
+background-color: blanchedalmond;
+}
+
+.fondorojo {
+ background-color: aqua;
+ font-family:fantasy;
+ height: 100PX;
+ text-align: center;
+ color: brown;
+}
+ 
+.slider {
+background-color: rgb(105, 209, 79);
+height: 200PX;
+font-family:fantasy;
+text-align: center;
+}
+
+.uno{
+background-color: blueviolet;
+height: 800PX;
+}
+
+.dos{
+background-color: brown;
+height:800PX;
+}
+
+.tres{
+    background-color: rgb(21, 39, 196);
+    height: 800PX;
+}
+
+.dobleuno{
+    background-color: rgb(68, 134, 24);
+    height: 400PX;
+}
+
+.dobledos{
+    background-color: rgb(138, 30, 165);
+    height: 400PX;
+}
+
+.pie {
+    background-color: rgb(185, 108, 204);
+    height: 400PX;
+}
